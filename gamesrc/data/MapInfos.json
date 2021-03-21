@@ -1,6 +1,9 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":658,"scrollY":366.5},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":3,"expanded":false,"name":"Jacky's House (Jacky's Room)","order":3,"parentId":0,"scrollX":789.5999999999999,"scrollY":439.79999999999995}
+{"id":1,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":658,"scrollY":366.5},
+{"id":2,"expanded":false,"name":"Intro2_Story","order":3,"parentId":0,"scrollX":789.5999999999999,"scrollY":439.79999999999995},
+{"id":3,"expanded":false,"name":"Jacky's House (Jacky's Room)","order":5,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"Jacky's House","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"Jacky's House (Parents' Room)","order":6,"parentId":4,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Credits","order":2,"parentId":1,"scrollX":790.8,"scrollY":445.2}
 ]
